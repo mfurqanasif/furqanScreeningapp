@@ -1,0 +1,158 @@
+
+
+.logo1{
+    margin-left: 35%;
+    margin-top: 10%;
+  }
+  
+  .img-person{
+  margin-top: 150%;
+  }
+    .container1 {
+      background-color:white;
+    }
+   
+    .forcolor{
+      background-color: #eff0f1;
+      padding-bottom: 60px;
+      margin-left: -15%;
+      margin-bottom: -40px;
+      margin-top: -8.5%;
+      width: 130%;
+    }
+    .logo,
+    img {
+      height: 60px;
+      margin-top: 1%;
+      margin-bottom: 1%;
+    }
+    .logo2{
+      margin-left: -5%;
+    }
+    .heading1 {
+      font-weight: bold;
+      font-size: 30px;
+    }
+    .stylingImg {
+      height: 200px;
+      margin-top: -5px;
+      float: right;
+    }
+  
+    .secondHeading {
+      margin: 20px;
+      font-weight: bold;
+      margin-top: -3%;
+    }
+    .heading5 {
+      font-weight: bold;
+    }
+    #rad{
+      border-top-left-radius: 0%;
+      border-bottom-right-radius: 0%;
+      border-top-right-radius: 0%;
+      border-bottom-left-radius: 0% ;
+    }
+  
+  .headerHeading {
+      margin: 20px;
+      font-weight: bold;
+      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    }
+    .mov{
+        width: 30%;
+        text-align: center;
+    }
+  a:visited{
+      color: purple;
+  }
+  
+    .feverImg {
+      height: 350px;
+      padding: 40px;
+    }
+    .myButton {
+      margin: 3px;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+    .pagination {
+      
+      width: 100%;
+    }
+    
+    .heading1 {
+      font-weight: bold;
+    }
+    .para2 {
+      margin: 15px;
+    }
+    .spreadHeading {
+      margin-left: 30px;
+      font-weight: bold;
+    }
+    .para3 {
+      margin: 10px;
+      margin-left: 30px;
+    }
+    .footer {
+      margin: 20px;
+      margin-left: 30px;
+    }
+    
+    .listStyle {
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      color: rgb(61, 60, 60);
+    }
+    .footerTxt {
+      margin: 20px;
+      margin-left: 34px;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      color: rgb(61, 60, 60);
+    }
+  
+    .btn1{
+      margin-left: 4%;
+    }
+   
+    .modal {
+      position: fixed;
+      top: 0;
+      left: 0;
+      z-index: 1050;
+      display: none;
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+      outline: 0;
+      background: white;
+  }
+  .mrg{
+    margin-bottom: 5%;
+  }
+  .img1 {
+    vertical-align: middle;
+    border-style: none;
+    
+    width: 68%;
+    height: 50%;
+    margin-left: 13%;
+    
+  }
+  
+  .question .btn{
+    width: 100%;
+    display: block;
+  }
+  .bottom-question{
+    margin-top: 5px;
+    margin-bottom: 5pxpx;
+    width: 83%;
+    margin-left: 2%;
+  }
+  
+  .question .row{
+    display: none;
+  }
+  .question .active{
+    display: block;
+  }
